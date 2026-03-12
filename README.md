@@ -4,9 +4,9 @@
 
 ### 🗓️ March Monthly Challenge
 
-- [x] **3/02:** [Wordle](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/wordle.js)
-- [x] **3/03:** [Blood Moon](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/blood-moon.js) 🩸
-- [x] **3/04:** [Holi](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/holi.js) 🌈
+- [x] **3/2:** [Wordle](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/wordle.js)
+- [x] **3/3:** [Blood Moon](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/blood-moon.js) 🩸
+- [x] **3/4:** [Holi](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/holi.js) 🌈
 - [x] **3/05:** [Homebrew Computer Club](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/homebrew-computer-club.js) 🤓
 - [x] **3/06:** [Alysa Liu](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/alysa-liu.js) ⛸️
 - [x] **3/07:** [Daylight Savings](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/daylight-savings.js) ⏰
