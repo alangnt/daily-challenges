@@ -1,4 +1,4 @@
-# Wordle 🟩
+# Wordle 🟩 (3/2/2026)
 # Codédex
 
 def wordle_guess(secret, guess):
