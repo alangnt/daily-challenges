@@ -4,7 +4,7 @@
 def blood_moon(time):
   # Write code below 💖
 
-  hrs_string, min_string = time.split(":")
+  hrs_string, min_string = time.split(':')
   result = []
   
   hrs = int(hrs_string)
@@ -25,7 +25,7 @@ def blood_moon(time):
   if hrs > 24:
     hrs = hrs - 24
   
-  result.append(f"{hrs:02d}:{min:02d}")
+  result.append(f'{hrs:02d}:{min:02d}')
 
   # ====== second one ====== 
 
@@ -39,7 +39,7 @@ def blood_moon(time):
   if hrs > 24:
     hrs = hrs - 24
   
-  result.append(f"{hrs:02d}:{min:02d}")
+  result.append(f'{hrs:02d}:{min:02d}')
 
   # ====== third one ====== 
 
@@ -53,6 +53,6 @@ def blood_moon(time):
   if hrs > 24:
     hrs = hrs - 24
   
-  result.append(f"{hrs:02d}:{min:02d}")
+  result.append(f'{hrs:02d}:{min:02d}')
 
   return result
