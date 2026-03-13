@@ -1,8 +1,8 @@
-## Holi 🌈
-## Codédex
+# Holi 🌈
+# Codédex
 
 def find_missing_colors(grid):
-  answer = ["🟥", "🟧", "🟨", "🟩", "🟦", "🟪", "🟫"]
+  answer = ['🟥', '🟧', '🟨', '🟩', '🟦', '🟪', '🟫']
 
   for i in range(7):
     for j in range(7):
