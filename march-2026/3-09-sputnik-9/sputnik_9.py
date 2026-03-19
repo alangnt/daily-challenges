@@ -12,5 +12,4 @@ def calculate_descent(altitude):
     time = (altitude - 12) / 0.075 + (12-0) / 0.020
   else:
     time = altitude / 0.020
-    
   return round(time, 1)
