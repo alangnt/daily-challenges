@@ -28,7 +28,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/20:** Cherry Blossoms 🌸
 - [x] **3/21:** First Tweet 🐦
 - [x] **3/22:** Water Day 💧
-- [ ] **3/23:** ❓❓❓
+- [x] **3/23:** Cuddly Kittens 🐈
 - [ ] **3/24:** ❓❓❓
 - [ ] **3/25:** ❓❓❓
 - [ ] **3/26:** ❓❓❓
