@@ -32,7 +32,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/24:** Earthquake Anomaly 🌏
 - [x] **3/25:** Opening Day ⚾️
 - [ ] **3/26:** Flatten Array 🪜
-- [ ] **3/27:** Infinite Monkey Thereom 🐒
+- [ ] **3/27:** Infinite Monkey Theorem 🐒
 - [ ] **3/28:** 28 Days Later 🧟
 - [ ] **3/29:** ❓❓❓
 - [ ] **3/30:** ❓❓❓
