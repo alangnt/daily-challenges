@@ -1,4 +1,4 @@
-# Codédex Daily Challenges
+# Daily Challenges
 
 Welcome to the Daily Challenge solutions!  
 Feel free to explore, learn, and share your own approaches.
