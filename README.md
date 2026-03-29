@@ -34,6 +34,6 @@ Feel free to explore, learn, and share your own approaches.
 - [ ] **3/26:** Flatten Array 🪜
 - [ ] **3/27:** Infinite Monkey Theorem 🐒
 - [ ] **3/28:** 28 Days Later 🧟
-- [ ] **3/29:** ❓❓❓
+- [ ] **3/29:** Leaderboard Stats 📊
 - [ ] **3/30:** ❓❓❓
 - [ ] **3/31:** ❓❓❓
